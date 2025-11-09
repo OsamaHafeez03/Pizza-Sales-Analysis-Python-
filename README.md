@@ -1,4 +1,4 @@
-                                            #🍕 Pizza Sales Analysis
+                                            # 🍕 Pizza Sales Analysis
 ##🎞 Project Overview
 As a business analyst, I conducted an end-to-end analysis of the Pizza Sales Dataset, which is designed to analyze transactional sales data from a pizza store. The goal is to identify key business insights, trends, and KPIs that will help management make informed decisions related to sales, marketing, and operations.
 Using Python (Pandas, Matplotlib, and Seaborn), I processed, analyzed, and visualized the data to answer critical business questions.
